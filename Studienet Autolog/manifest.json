@@ -1,0 +1,11 @@
+{
+  "name": "Studienet autologger",
+  "version": "1.0",
+  "description": "Skip the tedious login screen",
+  "permissions": ["storage", "declarativeContent", "tabs", "activeTab"],
+  "manifest_version": 2,
+  "content_scripts": [ {
+		"matches": ["https://login4.via.dk/logon/LogonPoint/*"],
+		"js": ["autologger.js"]
+	}]
+}

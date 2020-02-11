@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.banner {
+    background-color: red;
+    height: 60px;
+}
+
+.right_side {
+   width: 100px;
+    background-color: yellow;
+    float: right;
+}
+
+.footer {
+   clear: both;
+    background-color: palevioletred
+}
+.left_nav {
+    width: 100px;
+    background-color: yellow;
+    float: left;
+}
+.content {
+    width: 790px;
+    float: left;
+    background-color: darkgray
+}
+.wrapper {
+    width: 990px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: green;
+    
+}

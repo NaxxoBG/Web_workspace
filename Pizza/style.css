@@ -1,0 +1,46 @@
+.form {
+    background: deepskyblue;
+    margin: 20px;
+    height: 200px;
+    width: 500px
+   
+    
+}
+
+.select {
+        margin-top: 60px;
+        background-color: deepskyblue;
+    color: red;
+}
+
+.input {
+  
+    margin-left: 50px;
+    
+    margin-bottom: 50px;
+    height: 40px;
+    width: 80px;
+}
+
+.form span{
+    margin-left: 100px;
+    color: blue;
+}
+
+.form input  {
+    background-color: beige;
+    margin-left: 30px;
+}
+
+.date {
+    margin-top: 0px;
+    color: blue;
+    height: 20px;
+    margin-right:1px;
+    
+    
+    padding: 5px;
+    margin-right: 0px
+}
+
+

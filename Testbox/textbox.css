@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 900px;
+    margin: auto;
+}
+
+
+
+.textbox_outer {
+    
+   width: 250px;
+    float: right;
+    border: 2px solid #ceb0b;
+    margin: 5px;
+    padding: 5px;
+}
+
+
+
+.textbox {
+    padding: 5px, 5px, 5px, 25px;
+    background-color: lightgray;
+        
+}

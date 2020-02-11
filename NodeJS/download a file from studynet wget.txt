@@ -1,0 +1,1 @@
+wget https://studienet.via.dk/Class/IT-PCL1X-S18/Session%20Material/01IntroProgrammingParadigm.pdf -P C:\Users\Naxxo\Desktop --password=godzilla1954 --user=239841@via.dk
